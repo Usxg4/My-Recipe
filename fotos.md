@@ -1,18 +1,19 @@
-# Galería de inspiración
+# Galería de la Hamburguesa Clásica
 
-## Imágenes para este dulce momento
+## Imágenes para este momento sabroso
 
-![Postre casero](https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=900&q=80)
+![Hamburguesa casera](https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=80)
 
 ### Vibes del plato
-- Color cálido
-- Textura suave
-- Presentación elegante
+- Color dorado y jugoso
+- Textura crujiente y cremosa
+- Presentación irresistible
 
-> La belleza de un postre se siente antes de probarlo.
+> Una hamburguesa bien armada no necesita más que buena carne, buen pan y buen sazón.
 
-### Ideas de estilo
-- Mesa de madera natural
-- Mantel blanco clásico
-- Toques de flores frescas
-- Luz suave y acogedora
+### Estilo ideal para servirla
+- Pan brioche ligeramente tostado
+- Queso derretido por encima
+- Tocino crujiente y tomate fresco
+- Lechuga bien crujiente
+- Salsa favorita al centro

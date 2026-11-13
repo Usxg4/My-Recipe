@@ -1,25 +1,30 @@
-# Postre de la semana
+# Brownie Casero
 
-## Delicia dulce y sencilla
+## El cierre perfecto para una hamburguesa
 
-Un postre que convierte cualquier momento en una celebración.
+Un brownie húmedo, intenso y lleno de sabor para acompañar la mejor comida rápida casera.
 
-- 🌷 Un sabor suave y acogedor
-- 🍯 Dulce sin exagerar
-- ✨ Ideal para compartir en familia
+- 🍫 Intensidad de chocolate
+- 🧁 Textura suave y cremosa
+- ✨ Ideal para compartir al final de la comida
 
-> “La cocina más hermosa es la que se sirve con cariño.”
+> “Lo mejor del menú no siempre es lo primero: a veces termina con un brownie perfecto.”
 
 ### Ingredientes
-- 200 g de masa
-- 100 ml de leche
-- 3 cucharadas de miel
-- Frutos frescos al gusto
+- 150 g de chocolate negro
+- 100 g de mantequilla
+- 2 huevos
+- 100 g de azúcar
+- 60 g de harina
+- 1 cucharadita de vainilla
+- Una pizca de sal
 
 ### Preparación
-1. Mezcla los ingredientes en un bol.
-2. Cocina a fuego medio hasta obtener textura cremosa.
-3. Deja enfriar unos minutos.
-4. Sirve con frutos y un toque de azúcar.
+1. Derrite la mantequilla junto con el chocolate a fuego suave.
+2. Bate los huevos con el azúcar hasta que se mezclen bien.
+3. Incorpora la vainilla y añade la mezcla de chocolate.
+4. Agrega la harina y la sal, revolviendo sin exagerar.
+5. Hornea a 180°C durante 20 a 25 minutos.
+6. Deja enfriar unos minutos y sirve en porciones.
 
-¡Listo para disfrutar!
+¡Un final dulce que no pasa desapercibido!

@@ -1,15 +1,15 @@
-# Autor
+# Autor de la Receta
 
-## Mi receta favorita
+## El chef detrás de la hamburguesa perfecta
 
-Este proyecto nació con la idea de compartir sabores, momentos y alegría en cada plato.
+Este proyecto nació con la idea de compartir un clásico casero, bien hecho y lleno de sabor.
 
 ### Frase del autor
-> “La cocina es una forma de hacer arte con paciencia y amor.”
+> “La verdadera cocina casera se siente en cada mordida: sencilla, honesta y deliciosa.”
 
 ### Perfil
-- Nombre: Chef de la cocina casera
-- Estilo: Creativo, sencillo y lleno de cariño
-- Especialidad: Recetas dulces, frescas y memorables
+- Nombre: Chef casero
+- Estilo: Clásico, sabroso y con buen equilibrio
+- Especialidad: Hamburguesas, salsas y platos de cocina rápida
 
-Gracias por acompañar esta receta y hacerla especial.
+Gracias por acompañar esta receta y darle ese toque especial a cada comida.

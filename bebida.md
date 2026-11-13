@@ -1,21 +1,21 @@
-# Bebida refrescante
+# Malteada Casera
 
-## Un toque de frescura para acompañar
+## La bebida perfecta para acompañar una hamburguesa
 
-La bebida perfecta para equilibrar el dulzor de un postre.
+Una malteada cremosa y fría que equilibran muy bien el sabor intenso de la carne y los aderezos.
 
-### Receta rápida
-- 500 ml de agua fría
-- 1 cítricos de limón
-- 2 cucharadas de azúcar o miel
+### Ingredientes
+- 250 ml de leche fría
+- 2 bolas de helado de vainilla
+- 2 cucharadas de salsa de chocolate
+- 1 cucharadita de extracto de vainilla
 - Hielo al gusto
-- Hojas de menta
 
 ### Preparación
-1. Exprime el limón en un recipiente.
-2. Agrega agua y azúcar.
-3. Mezcla bien hasta disolver.
-4. Sirve sobre hielo y decorado con menta.
+1. Coloca la leche, el helado, la vainilla y la salsa en la licuadora.
+2. Añade hielo y mezcla hasta obtener una textura cremosa.
+3. Sirve en un vaso alto y decora con un poco de chocolate rallado.
+4. Disfruta bien fría junto a la hamburguesa.
 
 ### Nota
-Es ideal para tardes cálidas, reuniones pequeñas y momentos de relax.
+Es una opción ideal para una comida casera, relajada y con sabor clásico de restaurante.
