@@ -7,6 +7,29 @@
 
 > **💡 El secreto del chef:** Aprovechar la misma grasa de la tocineta para dorar un poco la carne le dará un sabor ahumado espectacular. ¡Y no olvides tostar el pan!
 
+<div align="center">
+  <h3>🍔 Explora más de esta receta</h3>
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="postre.md"><img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=300&q=80" alt="Brownie" width="160" /><br><strong>🍫 Postre</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="fotos.md"><img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=300&q=80" alt="Hamburguesa" width="160" /><br><strong>📷 Fotos</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="bebida.md"><img src="https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=300&q=80" alt="Malteada" width="160" /><br><strong>🥤 Bebida</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="autor.md"><img src="https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=300&q=80" alt="Chef" width="160" /><br><strong>👨‍🍳 Autor</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### ⏱️ Información de la Receta
 
 | Preparación | Cocción | Porciones | Dificultad |
