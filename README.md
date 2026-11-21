@@ -75,3 +75,21 @@
 
 ---
 *Documentado con ❤️ por [Usxg4](https://github.com/Usxg4)*
+
+## 🍝 Pasta con pollo
+
+### Ingredientes
+- 200 g de pasta
+- 1 pechuga de pollo
+- 1 tomate
+- 1/2 cebolla
+- Sal al gusto
+- Aceite
+
+### Preparación
+1. Cocina la pasta en agua con un poco de sal.
+2. Corta el pollo en trozos pequeños.
+3. Sofríe la cebolla y el tomate.
+4. Agrega el pollo y cocina hasta que esté bien cocido.
+5. Mezcla el pollo con la pasta.
+6. Sirve y disfruta.
